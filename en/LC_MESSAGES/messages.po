@@ -81,7 +81,7 @@ msgid ""
 msgstr ""
 
 msgid "Alleviate anxiety linked to becoming"
-msgstr ""
+msgstr "Alleviate anxiety linked to beginning"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr ""
