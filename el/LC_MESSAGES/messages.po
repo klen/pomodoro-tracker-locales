@@ -20,64 +20,66 @@ msgstr ""
 "Generated-By: Babel 2.6.0\n"
 
 msgid "%1$s left"
-msgstr ""
+msgstr "%1$s αριστερά"
 
 msgid "%1$s records were imported"
-msgstr ""
+msgstr "%1$s τα αρχεία έχουν εισήχθη"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
-msgstr ""
+msgstr "%s οριστε η καθημερινή σου αναφορά για %s"
 
 msgid "Activities"
-msgstr ""
+msgstr "Δραστηριότητες"
 
 msgid "Activity by days"
-msgstr ""
+msgstr "Δραστηριότητα ανα μέρες"
 
 msgid "Activity by months"
-msgstr ""
+msgstr "Δραστηριότητα ανα μήνες"
 
 msgid "Activity by weeks"
-msgstr ""
+msgstr "Δραστηριότητα ανα εβδομάδες"
 
 msgid "Add"
-msgstr ""
+msgstr "Προσθέστε"
 
 msgid "Add Activity"
-msgstr ""
+msgstr "Προσθέστε Δραστηριότητα"
 
 msgid "Add TODO"
-msgstr ""
+msgstr "Προσθέστε TODO"
 
 msgid "Add category"
-msgstr ""
+msgstr "Προσθέστε κατηγορία"
 
 msgid "Add more"
-msgstr ""
+msgstr "Προσθέστε και άλλα"
 
 msgid "Add new tasks to the top"
-msgstr ""
+msgstr "Προσθέστε νέες ασχολίες στην κορυφή"
 
 msgid "Alleviate anxiety linked to beginning"
-msgstr ""
+msgstr "Ανακούφιση άγχους συνδεδεμένο με το ξεκίνημα"
 
 msgid "Application"
-msgstr ""
+msgstr "Εφαρμογή"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
 msgstr ""
+"Στην αρχή καθε μέρας διάλεξε της ασχολίες που χρειάζεται να ολοκληρώσης και"
+"βάλτες στην λίστα TODO παραπάνω"
 
 msgid "At time"
-msgstr ""
+msgstr "Στην ώρα"
 
 msgid "Auto start breaks"
-msgstr ""
+msgstr "Αυτόματο ξεκίνημα διάλειμματων"
 
 msgid "Auto start pomodoros"
-msgstr ""
+msgstr "Αυτόματο ξεκίνημα των πομοντόρο"
 
 msgid "Bolster the determination to achieve your goals"
 msgstr ""
