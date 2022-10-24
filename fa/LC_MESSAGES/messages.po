@@ -1,7 +1,7 @@
 # Persian translations for pomodoro.
 # Copyright (C) 2022 ORGANIZATION
 # This file is distributed under the same license as the pomodoro project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+# MrShaker <https://github.com/mrshaker>, 2022.
 #
 #, fuzzy
 msgid ""
@@ -10,9 +10,9 @@ msgstr ""
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-03-16 13:44+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: MrShaker <https://github.com/mrshaker>\n"
 "Language: fa\n"
-"Language-Team: fa <LL@li.org>\n"
+"Language-Team: fa <mrshaker@mrshaker.org>\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -21,490 +21,498 @@ msgstr ""
 
 #, python-format
 msgid " Sign in with %(provider)s "
-msgstr ""
+msgstr " وارد شدن توسط "
 
 msgid "%1$s left"
-msgstr ""
+msgstr "%1$s چپ"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
-msgstr ""
+msgstr "%s گزارش روزانه شما برای %s"
 
 msgid "A random message will be chosen if there are multiple."
-msgstr ""
+msgstr " اگر چند پیام باشد، یکی به صورت تصادفی انتخاب خواهد شد"
 
 msgid "Activities"
-msgstr ""
+msgstr "فعالیت ها"
 
 msgid "Activity by days"
-msgstr ""
+msgstr "فعالیت براساس روز"
 
 msgid "Activity by months"
-msgstr ""
+msgstr "فعالیت بر اساس ماه"
 
 msgid "Activity by weeks"
-msgstr ""
+msgstr "فعالیت بر اساس هفته"
 
 msgid "Add"
-msgstr ""
+msgstr "افزودن"
 
 msgid "Add TODO"
-msgstr ""
+msgstr "افزودن وظیفه"
 
 msgid "Add category"
-msgstr ""
+msgstr "افزودن گروه"
 
 msgid "Add more"
-msgstr ""
+msgstr "افزودن موارد دیگر"
 
 msgid "Add new tasks to the top"
-msgstr ""
+msgstr " افزودن وظایف جدید به بالاترین سطح"
 
 msgid "Alleviate anxiety linked to beginning"
-msgstr ""
+msgstr "کاهش دادن استرس مرتبطه به شروع"
 
 msgid "Application"
-msgstr ""
+msgstr "برنامه"
 
 msgid "Are you sure?"
-msgstr ""
+msgstr "مطمئن هستید؟"
 
 msgid "Ask for the permission"
-msgstr ""
+msgstr "درخواست برای دسترسی"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
 msgstr ""
+"در شروع هر روز تسک هایی که نیاز دارید کامل شود را انتخاب کنید و"
+"و آنها را در بالای لیست تودو(انجام دادنی) قرار دهید"
 
 msgid "Auto start breaks"
-msgstr ""
+msgstr "شروع خودکار وقفه ها"
 
 msgid "Auto start pomodoros"
-msgstr ""
+msgstr "شروع خودکار پومودوروها"
 
 msgid "Block screen on breaks"
-msgstr ""
+msgstr "بلاک کردن صفحه در وقفه ها"
 
 msgid "Bolster the determination to achieve your goals"
-msgstr ""
+msgstr "تا رسیدن به اهداف، موارد تعیین شده را نگه دارید"
 
 msgid "Boost motivation and keep it constant"
-msgstr ""
+msgstr "انگیزه تان را تقویت کنید و آن را پایدار کنید"
 
 msgid "Break is over"
-msgstr ""
+msgstr "وقفه به اتمام رسیده است"
 
 msgid "Categories"
-msgstr ""
+msgstr "طبقه بندی"
 
 msgid "Clear All Data"
-msgstr ""
+msgstr "پاک کردن همه اطلاعات"
 
 msgid "Clear DONE history once per day"
-msgstr ""
+msgstr " پاک کردن تاریخچه به صورت روزانه"
 
 msgid "Clear the list"
-msgstr ""
+msgstr "پاک کردن لیست"
 
 msgid "Click on a number to add more."
-msgstr ""
+msgstr "بر روی شماره کلیک کنید تا افزوده شود"
 
 msgid "Click to open menu"
-msgstr ""
+msgstr "برای باز کردن منو، کلیک کنید"
 
 msgid "Click/tap to edit items."
-msgstr ""
+msgstr "برای ویرایش آیتم ها کلیک/ضربه بزنید"
 
 msgid "Close"
-msgstr ""
+msgstr "بستن"
 
 msgid "Code"
-msgstr ""
+msgstr "کد"
 
 msgid "Color Theme"
-msgstr ""
+msgstr "تم رنگ"
 
 msgid "Configure"
-msgstr ""
+msgstr "پیکربندی"
 
 msgid "Confirm"
-msgstr ""
+msgstr "تایید"
 
 msgid "Congratulations!"
-msgstr ""
+msgstr "!تبریک"
 
 msgid "Connect"
-msgstr ""
+msgstr "متصل شدن"
 
 msgid "Copy to %1$s"
-msgstr ""
+msgstr "%1$s کپی کردن به"
 
 msgid "Create"
-msgstr ""
+msgstr "ایجاد کردن"
 
 msgid "Create a category"
-msgstr ""
+msgstr "ایجاد یک طبقه بندی"
 
 msgid "Daily Goal"
-msgstr ""
+msgstr "هدف روزانه"
 
 msgid "Danger Zone"
-msgstr ""
+msgstr "منطقه خطر"
 
 msgid "Date format"
-msgstr ""
+msgstr "فرمت تاریخ"
 
 msgid "Disconnect"
-msgstr ""
+msgstr "قطع اتصال"
 
 msgid "Don`t start next pomodoro if TODO is empty"
-msgstr ""
+msgstr "در صورتی که تودو(انجام دادنی) خالی است، پومودورو بعدی را شروع نکنید"
 
 msgid "Drag&Drop/Touch to sort items."
-msgstr ""
+msgstr " برای مرتب کردن آیتم ها، بشکید و رها کنید."
 
 msgid "Due"
-msgstr ""
+msgstr "به علت"
 
 msgid "Edit"
-msgstr ""
+msgstr "ویرایش"
 
 msgid "Enable Browser Alerts"
-msgstr ""
+msgstr "فعال کردن شدار های مرورگر"
 
 msgid "Enable Desktop Notifications"
-msgstr ""
+msgstr "فعال کردن نوتیفیکیشن های دستکتاپ"
 
 msgid "Enable Notifications"
-msgstr ""
+msgstr "فعال کردن نوتیفیکیشن ها"
 
 msgid "Ends on"
-msgstr ""
+msgstr "پایان دادن روی"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
-msgstr ""
+msgstr "با کاهش دادن وقفه ها، توجه و تمرکز را افزایش دهید"
 
 msgid "Enjoy your break"
-msgstr ""
+msgstr "از زنگ تفریح لذت ببرید"
 
 msgid "Export the records as CSV"
-msgstr ""
+msgstr "صادر کردن گزارشات به صورت اکسل"
 
 msgid "Feedback"
-msgstr ""
+msgstr "بازخورد"
 
 msgid "Fill blank entries"
-msgstr ""
+msgstr "موارد خالی را پر کنید"
 
 msgid "Global shortcut to open Pomodoro-Tracker"
-msgstr ""
+msgstr "میانبرهای کلی برای باز کردن پومودورو-ترکر"
 
 msgid "Hide notificaions"
-msgstr ""
+msgstr "مخفی کردن نوتیفیکیشن ها"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
-msgstr ""
+msgstr "اگر یک تسک بیشتر از 5تا7 پومودورو طول می کشد، آن را کاهش دهید"
 
 msgid ""
 "If it takes less than one Pomodoro, add it up, and combine  it with "
 "another task"
 msgstr ""
+"اگر یک تسک کمتر از یک پومودورو زمان می برد، آن را با"
+"تسکی دیگر ترکیب کنید"
 
 msgid "Import tasks from CSV"
-msgstr ""
+msgstr "وارد کردن تسک ها از فایل اکسل"
 
 msgid "Imported from External Sources"
-msgstr ""
+msgstr "وارد شده از منبع خارجی"
 
 msgid "Improve your work or study process"
-msgstr ""
+msgstr "فرایند مطالعه یا کار خود را بهبود دهید"
 
 msgid "Inbox"
-msgstr ""
+msgstr "صندوق ورودی"
 
 msgid "Increase awareness of your decisions"
-msgstr ""
+msgstr "آگاهی از تصمیم هایتان را افزایش دهید"
 
 msgid "Integration with %1$s"
-msgstr ""
+msgstr "%1$s یکپارچه سازی توسط"
 
 msgid "Integrations"
-msgstr ""
+msgstr "یکپارچه سازی"
 
 msgid "Join the global rating"
-msgstr ""
+msgstr "به رتبه بندی جهانی ملحق شوید"
 
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
 "finished. Every 4 Pomodoros take a longer break, (15–30 minutes)."
 msgstr ""
+"به کار کردنتان ادامه دهید و از هر پودورو به پومودوروی دیگر حرکت کنید تا به پایان برسد."
+"هر 4 پومودورو یک استراحت طولانی 15تا30 دقیقه ای دارد."
 
 msgid "Language"
-msgstr ""
+msgstr "زبان"
 
 msgid "Like"
-msgstr ""
+msgstr "لایک"
 
 msgid "Load daily tasks"
-msgstr ""
+msgstr "بارگذاری تسک ها روزانه"
 
 msgid "Loading"
-msgstr ""
+msgstr "در حال بارگذاری"
 
 msgid "Login to the service and track your progress"
-msgstr ""
+msgstr "وارد سرویس مورد نظر شوید و پیشرفت خود را ردگیری کنید"
 
 msgid "Login to the service using %1$s authentication."
-msgstr ""
+msgstr "%1$s وارد شدن به سرویس با استفاده از سیستم احراز هویت"
 
 msgid "Logout"
-msgstr ""
+msgstr "خارج شدن"
 
 msgid "Long break"
-msgstr ""
+msgstr "استراحت طولانی"
 
 msgid "Long break delay"
-msgstr ""
+msgstr "وقفه استراحت طولانی"
 
 msgid "Long break duration"
-msgstr ""
+msgstr "مدت زمانی استراحت طولانی"
 
 msgid "Look away at something that is 6 metres away for %1$s seconds"
-msgstr ""
+msgstr "%1$s از دور نگاه کردن به چیزی که 6 متر از شما دور است به مدت"
 
 msgid "Mark as done"
-msgstr ""
+msgstr "علامت زدن به عنوان انجام شده"
 
 msgid "Median per day"
-msgstr ""
+msgstr "میانگین روزانه"
 
 msgid "Move to Inbox"
-msgstr ""
+msgstr "انتقال دادن به صندوق ورودی"
 
 msgid "Navigate Back"
-msgstr ""
+msgstr "برگشتن به عقب"
 
 msgid "Navigate Forward"
-msgstr ""
+msgstr "حرکت به جلو"
 
 msgid "New"
-msgstr ""
+msgstr "جدید"
 
 msgid "Next long break"
-msgstr ""
+msgstr "استراحت طولانی بعدی"
 
 msgid "Notifications"
-msgstr ""
+msgstr "نوتیفیکیشن ها"
 
 msgid "Notify when there is one minute left"
-msgstr ""
+msgstr "زمانی که یک دقیقه باقی مانده هشدار بده"
 
 msgid "Of those"
-msgstr ""
+msgstr "از آنها"
 
 msgid "Once a Pomodoro begins, it has to ring"
-msgstr ""
+msgstr "به محض شروع شدن پومودورود، باید شروع به زنگ زدن کند"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
-msgstr ""
+msgstr " ایجاد یا از بین بردن وقفه برای حالت اسلیپ سیستم"
 
 msgid "Play alarm sound"
-msgstr ""
+msgstr "اجرا کردن صدای آلارم"
 
 msgid "Play ticking sound"
-msgstr ""
+msgstr "اجرای صدای تیک تاک"
 
 msgid "Play ticking sound while breaks"
-msgstr ""
+msgstr "اجرای صدای تیک تاک در زمان استراحت"
 
 msgid "Please don't send me these awesome daily reports"
-msgstr ""
+msgstr "لطفا گزارش های روزانه افتضاح را برای من ارسال نکن"
 
 msgid "Please reload the application."
-msgstr ""
+msgstr "لطفا برنامه را مجدد بارگذاری کن"
 
 msgid "Please select a value"
-msgstr ""
+msgstr "لطفا یک مقدار را انتخاب کنید"
 
 msgid "Please unblock notifications in your browser"
-msgstr ""
+msgstr "لطفا نوتیفیکشن را در مرورگر خود فعال کنید"
 
 msgid "Please, login to use the feature"
-msgstr ""
+msgstr "برای استفاده از این ویژگی وارد شوید"
 
 msgid "Please, login to view your stats"
-msgstr ""
+msgstr "برای مشاهده آمار خود، لطفا وارد شوید"
 
 msgid "Pomodoro Tracker is a productivity app designed for your work and study."
-msgstr ""
+msgstr "پومودورو-ترکر یک محصول عالی برای کار یا مطالعه شما می باشد"
 
 msgid "Pomodoro duration"
-msgstr ""
+msgstr "مدت زمان پومودورو"
 
 msgid "Pomodoro is finished"
-msgstr ""
+msgstr "پومودورو به پایان رسید"
 
 msgid "Preferences"
-msgstr ""
+msgstr "اولویت ها"
 
 msgid "Press"
-msgstr ""
+msgstr "فشار دادن"
 
 msgid "Profile"
-msgstr ""
+msgstr "پروفایل"
 
 msgid "Raise browser alert when pomodoro/break is over"
-msgstr ""
+msgstr "وقتی پومودورو یا استراحت به پایان رسید، توسط مروگر هشدار بده"
 
 msgid "Reconnect"
-msgstr ""
+msgstr "اتصال مجدد"
 
 msgid "Records are empty"
-msgstr ""
+msgstr "رکوردها خالی هستند"
 
 msgid "Refine the estimation process, both in qualitative and quantitative terms "
-msgstr ""
+msgstr "اصطلاحات کیفیت و کمیت را در فرایندهای تخیمن اصلاح بکنید"
 
 msgid "Register"
-msgstr ""
+msgstr "ثبت نام"
 
 msgid "Relax"
-msgstr ""
+msgstr "راحت باشید"
 
 msgid "Remove Account"
-msgstr ""
+msgstr "حذف حساب کاربری"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
-msgstr ""
+msgstr "وقتی پومودورو کامل شد، آن تسک را از تودو(انجام دادنی) حذف کن"
 
 msgid "Remove one"
-msgstr ""
+msgstr "حذف یک"
 
 msgid "Repeat"
-msgstr ""
+msgstr "تکرار"
 
 msgid "Repeat every"
-msgstr ""
+msgstr "تکرار هر باره"
 
 msgid "Reports Time"
-msgstr ""
+msgstr "گزارش های زمانی"
 
 msgid "Rules & Tips"
-msgstr ""
+msgstr "قوانین و مقررات"
 
 msgid "Scheduler"
-msgstr ""
+msgstr "زمان بندی"
 
 msgid "Schemes"
-msgstr ""
+msgstr "روش"
 
 msgid "Select Category"
-msgstr ""
+msgstr "انتخاب طبقه بندی"
 
 msgid "Select Dates"
-msgstr ""
+msgstr "انتخاب تاریخ ها"
 
 msgid "Select a source to import tasks"
-msgstr ""
+msgstr "انتخاب یک منبع برای وارد کردن تسک ها"
 
 msgid "Send daily reports"
-msgstr ""
+msgstr "ارسال گزارش های روزانه"
 
 msgid "Send test notification"
-msgstr ""
+msgstr "ارسال نوتیفیکیشن های آزمایشی"
 
 msgid "Server has been updated."
-msgstr ""
+msgstr "سرور به تازگی بروزرسانی شده است"
 
 msgid "Set Due"
-msgstr ""
+msgstr "تنظیم کردن از"
 
 msgid "Set Recurrence"
-msgstr ""
+msgstr "تنظیم کردن رخداد"
 
 msgid "Set do not disturb"
-msgstr ""
+msgstr "تنظیم برای مزاحم نشدن"
 
 msgid "Set to Later"
-msgstr ""
+msgstr "تنظیم برای بعد"
 
 msgid "Set to Tomorrow"
-msgstr ""
+msgstr "تنظیم برای فردا"
 
 msgid "Set to Week"
-msgstr ""
+msgstr "تنظیم برای هفته"
 
 msgid "Settings"
-msgstr ""
+msgstr "تنظیمات"
 
 msgid "Share timer data"
-msgstr ""
+msgstr "اشتراک گذاری اطلاعات تایمر"
 
 msgid "Short break"
-msgstr ""
+msgstr "استراحت کوتاه"
 
 msgid "Short break duration"
-msgstr ""
+msgstr "مدت زمان استراحت کوتاه"
 
 msgid "Short description"
-msgstr ""
+msgstr "توضیحات کوتاه"
 
 msgid "Sign Up / Login"
-msgstr ""
+msgstr "ثبت نام/وارد شدن"
 
 msgid "Sign in with %1$s"
-msgstr ""
+msgstr "%1$s وارد شدن توسط"
 
 msgid "Sort by"
-msgstr ""
+msgstr "مرتب کردن توسط"
 
 msgid "Start the Pomodoro timer"
-msgstr ""
+msgstr "شروع تایمر پومودورو"
 
 msgid "Start working:"
-msgstr ""
+msgstr ":شروع کاری"
 
 msgid "Starts on"
-msgstr ""
+msgstr "شروع بر روی"
 
 msgid "Stats"
-msgstr ""
+msgstr "آمار"
 
 msgid "Stay focused and finish tasks effectively."
-msgstr ""
+msgstr "متمرکز بمانید و تسک ها را با کارآمدی به پایان برسانید"
 
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
 "complex situations"
 msgstr ""
+"قدرت حل مسائل خود را تقویت کنید تا بتوانید با موقعیت های سخت"
+"آمادگی برخورد داشته باشید"
 
 msgid "Support the Project"
-msgstr ""
+msgstr "حمایت از پروژه"
 
 msgid "Sync my tasks only"
-msgstr ""
+msgstr "همگام سازی تسک های من"
 
 msgid "TODO"
-msgstr ""
+msgstr "تودو"
 
 msgid "TODO list is empty."
-msgstr ""
+msgstr "لیست تودو خالی است."
 
 msgid "Take a short break (3-5 minutes)"
-msgstr ""
+msgstr "استراحت کوتاه 3 تا 5 دقیقه ای داشته باشید"
 
 msgid "Take more time to your life."
-msgstr ""
+msgstr "زمان بیشتری برای زندگیتان بگذارید"
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
-msgstr ""
+msgstr "ممنون از بازخوردتان! پیام شما در دست بررسی می باشد."
 
 msgid "The Basics"
-msgstr ""
+msgstr "اصول اولیه"
 
 msgid "The Goals"
-msgstr ""
+msgstr "اهداف"
 
 msgid ""
 "The Pomodoro Technique is a time management method that can be used for "
@@ -512,372 +520,393 @@ msgid ""
 "“the ticking clock”, especially when it involves a deadline, leads to "
 "ineffective work and study habits which in turn lead to procrastination."
 msgstr ""
+"تکنیک پومودورو یک متد مدیریت زمان می باشد که می تواند برای هر تسکی"
+"استفاده شود. برای خیلی از افرااک دشمن است.اضطراب تحریک شده توسط تیک تاک ساعت، علی الخصوص"
+"زمانی که درگیر یک ددلین هستید، منجر به عادات مطالعات و کاری ناکارآمد می شود و باعث به تعویق افتادن می شود."
 
 msgid ""
 "The Pomodoro Technique shouldn’t be used for activities you do in your "
 "free time. Enjoy free time!"
 msgstr ""
+"توصیه می شود که از تکنیک پومودورو برای تایم های آزادتان"
+"استفاده نکنید. از زمان های آزادتان لذت ببرید."
 
 msgid ""
 "The Pomodoro Technique will provide a simple tool/process for improving "
 "productivity (your own and that of your team members) which can do the "
 "following:"
 msgstr ""
+"تکنیک پومودورو یک ابزار ساده برای بهبود کارآمدی خودتان "
+"یا اعضای تیمتان می باشد که می تواند به شکل زیر"
+"انجام شود:"
 
 msgid ""
 "The Pomodoro Tracker — A useful tool for time management based on "
 "Pomodoro Technique."
 msgstr ""
+"پومودورو ترکر - یک ابزار مفید برای مدیریت زمان"
+"برپایه تکنیک پومودورو."
 
 msgid ""
 "The aim of the Pomodoro Technique is to use time as a valuable ally in "
 "accomplishing what we want to do in the way we want to do it, and to "
 "enable us to improve continually the way we work or study."
 msgstr ""
+"هدف از تکنیک پومودورو استفاده از زمان به عنوان یک دوست ارزشمند"
+"می باشد تا از آن برای انجام دادن کارهایی که باید انجام دهیم استفاده کنیم. و به ما"
+"توانایی بهبود پیوسته مسیر کاری یا مطالعاتی را می دهد."
 
 msgid "The list is empty"
-msgstr ""
+msgstr "لیست خالی است"
 
 msgid "The next Pomodoro will go better"
-msgstr ""
+msgstr "پومودوروی بعدی بهتر خواهد بود"
 
 msgid "The next pomodoro will go better!"
-msgstr ""
+msgstr "پومودوروی بعدی بهتر خواهد بود"
 
 msgid "There are completed tasks"
-msgstr ""
+msgstr "تسک های کامل شده موجود هستند"
 
 msgid "Time format"
-msgstr ""
+msgstr "فرمت زمان"
 
 msgid "Time spent"
-msgstr ""
+msgstr "مقدار زمان گذشته"
 
 msgid "Time zone"
-msgstr ""
+msgstr "منطقه زمانی"
 
 msgid "Timer"
-msgstr ""
+msgstr "تایمر"
 
 msgid "Title"
-msgstr ""
+msgstr "عنوان"
 
 msgid "Toggle eye keeper"
-msgstr ""
+msgstr "تغییر به نگهدارنده چشم"
 
 msgid "Toggle fullscreen"
-msgstr ""
+msgstr "تغییر به تمام صفحه"
 
 msgid "Toggle mini timer"
-msgstr ""
+msgstr "تغییر به تایمر کوچک"
 
 msgid "Try to add some tasks use the form above"
-msgstr ""
+msgstr "تلاش برای افزودن تعداد تسک برای استفاده در فرم بالا"
 
 msgid "Try to complete some pomodoros or choose a different period"
-msgstr ""
+msgstr "تلاش برای کامل کردن تعدادی پومودورو یا انتخاب دوره زمانی متفاوت"
 
 msgid "Tune the timer"
-msgstr ""
+msgstr "تنظیم کردن تایمر"
 
 msgid "Unselect Category"
-msgstr ""
+msgstr "انتخاب نکردن طبقه بندی"
 
 msgid "Update status"
-msgstr ""
+msgstr "بروزرسانی حالات"
 
 msgid "Volume"
-msgstr ""
+msgstr "صدا"
 
 msgid "What is it?"
-msgstr ""
+msgstr "این چیه؟"
 
 msgid "Work history won`t be saved."
-msgstr ""
+msgstr "تاریخچه کاری ذخیره نخواهد شد."
 
 msgid "Work until the Pomodoro rings"
-msgstr ""
+msgstr "تا صدای زنگ پومودورو کار کن"
 
 msgid "Write your ideas here"
-msgstr ""
+msgstr "ایده هایتان را اینجا یادداشت کنید"
 
 msgid "You are not signed."
-msgstr ""
+msgstr "شما وارد نشده اید"
 
 msgid "You have finished all your tasks."
-msgstr ""
+msgstr "همه تسک هایتان را به پایان رساندید."
 
 msgid "You have to reconnect the integration"
-msgstr ""
+msgstr "برای یکپارچه سازی مجددا وصل شوید"
 
 msgid "You need to connect the integration"
-msgstr ""
+msgstr "برای یکپارچه سازی باید وصل شود"
 
 msgid "You spent"
-msgstr ""
+msgstr "مقداری که گذراندید"
 
 msgid "and"
-msgstr ""
+msgstr "و"
 
 msgid "average"
-msgstr ""
+msgstr "متوسط"
 
 msgid "cancel"
-msgstr ""
+msgstr "لغو"
 
 msgid "category"
-msgstr ""
+msgstr "طبقه بندی"
 
 msgid "close"
-msgstr ""
+msgstr "بستن"
 
 msgid "copy"
-msgstr ""
+msgstr "کپی"
 
 msgid "created"
-msgstr ""
+msgstr "ایجاد شده"
 
 msgid "custom"
-msgstr ""
+msgstr "سفارشی"
 
 msgid "day"
 msgid_plural "days"
-msgstr[0] ""
+msgstr[0] "روز"
+msgstr[1] "روزها"
 
 msgid "default"
-msgstr ""
+msgstr "پیش فرض"
 
 msgid "delay"
-msgstr ""
+msgstr "وقفه"
 
 msgid "delays"
-msgstr ""
+msgstr "وقفه ها"
 
 msgid "delete"
-msgstr ""
+msgstr "حذف"
 
 msgid "description"
-msgstr ""
+msgstr "توضیحات"
 
 msgid "disable"
-msgstr ""
+msgstr "غیرفعال"
 
 msgid "done"
-msgstr ""
+msgstr "انجام شده"
 
 msgid "duration"
-msgstr ""
+msgstr "مدت زمان"
 
 msgid "finish time"
-msgstr ""
+msgstr "اتمام رساندن زمان"
 
 msgid "focus"
-msgstr ""
+msgstr "تمرکز"
 
 msgid "for all time"
-msgstr ""
+msgstr "برای همه زمان ها"
 
 msgid "forward"
-msgstr ""
+msgstr "جلو"
 
 msgid "friday"
-msgstr ""
+msgstr "جمعه"
 
 msgid "friends"
-msgstr ""
+msgstr "دوستان"
 
 msgid "global"
-msgstr ""
+msgstr "همگانی"
 
 msgid "hour"
 msgid_plural "hours"
-msgstr[0] ""
+msgstr[0] "ساعت"
+msgstr[1] "ساعات"
 
 msgid "if you must exit now"
-msgstr ""
+msgstr "اگر می خواهید حتما الان خارج شوید"
 
 msgid "in 10 seconds"
-msgstr ""
+msgstr "در 10 ثانیه"
 
 msgid "in 2 seconds"
-msgstr ""
+msgstr "در 2 ثانیه"
 
 msgid "in 3 seconds"
-msgstr ""
+msgstr "در 3 ثانیه"
 
 msgid "in 5 seconds"
-msgstr ""
+msgstr "در 5 ثانیه"
 
 msgid "in minutes"
-msgstr ""
+msgstr "در دقیقه"
 
 msgid "in pomodoros"
-msgstr ""
+msgstr "در پومودوروها"
 
 msgid "interruptions"
-msgstr ""
+msgstr "وقفه ها"
 
 msgid "later"
-msgstr ""
+msgstr "بعدا"
 
 msgid "like"
 msgid_plural "likes"
-msgstr[0] ""
+msgstr[0] "لایک"
+msgstr[1] "لایک ها"
 
 msgid "login"
-msgstr ""
+msgstr "وارد شدن"
 
 msgid "maximize"
-msgstr ""
+msgstr "تمام صفحه"
 
 msgid "median"
-msgstr ""
+msgstr "میانگین"
 
 msgid "menu"
-msgstr ""
+msgstr "منو"
 
 msgid "merge"
-msgstr ""
+msgstr "ادغام کردن"
 
 msgid "messages"
-msgstr ""
+msgstr "پیام ها"
 
 msgid "minimize"
-msgstr ""
+msgstr "کوچک کردن"
 
 msgid "minute"
 msgid_plural "minutes"
-msgstr[0] ""
+msgstr[0] "دقیقه"
+msgstr[1] "دقایق"
 
 msgid "monday"
-msgstr ""
+msgstr "دوشنبه"
 
 msgid "month"
 msgid_plural "months"
-msgstr[0] ""
+msgstr[0] "ماه"
+msgstr[1] "ماه ها"
 
 msgid "never"
-msgstr ""
+msgstr "هرگز"
 
 msgid "next page"
-msgstr ""
+msgstr "صفحه بعد"
 
 msgid "no description"
-msgstr ""
+msgstr "بدون توضیحات"
 
 msgid "number"
-msgstr ""
+msgstr "عدد"
 
 msgid "on"
-msgstr ""
+msgstr "روی"
 
 msgid "one message per line"
-msgstr ""
+msgstr "یک پیام در هر  خط"
 
 msgid "page"
-msgstr ""
+msgstr "صفحه"
 
 msgid "pause"
-msgstr ""
+msgstr "توقف"
 
 msgid "personal"
-msgstr ""
+msgstr "شخصی"
 
 msgid "pomodoro"
 msgid_plural "pomodoros"
-msgstr[0] ""
+msgstr[0] "پومودورو"
+msgstr[1] "پومودوروها"
 
 msgid "pomodoros"
-msgstr ""
+msgstr "پومودوروها"
 
 msgid "preview"
-msgstr ""
+msgstr "نگاه اجمالی"
 
 msgid "previous page"
-msgstr ""
+msgstr "صفحه قبلی"
 
 msgid "prolong time"
-msgstr ""
+msgstr "تاخیر زمانی"
 
 msgid "rating"
-msgstr ""
+msgstr "رتبه"
 
 msgid "refresh"
-msgstr ""
+msgstr "تازه سازی"
 
 msgid "registered users spend on completing pomodoros"
-msgstr ""
+msgstr "مدت زمان صرف شده کاربران برای کامل کردن پومودوروها"
 
 msgid "registered users spend on completing pomodoros today."
-msgstr ""
+msgstr "مدت زمان صرف شده کاربران ثبت نامی برای کامل کردن پومودوروهای امروز"
 
 msgid "resume"
-msgstr ""
+msgstr "ادامه دادن"
 
 msgid "saturday"
-msgstr ""
+msgstr "شنبه"
 
 msgid "save"
-msgstr ""
+msgstr "ذخیره"
 
 msgid "send password"
-msgstr ""
+msgstr "ارسال پسورد"
 
 msgid "series"
-msgstr ""
+msgstr "مجموعه"
 
 msgid "skip"
-msgstr ""
+msgstr "رد کردن"
 
 msgid "split"
-msgstr ""
+msgstr "تقسیم کردن"
 
 msgid "start"
-msgstr ""
+msgstr "شروع"
 
 msgid "sunday"
-msgstr ""
+msgstr "یکشنبه"
 
 msgid "take a short break"
-msgstr ""
+msgstr "استراحتی کوتاه کنید"
 
 msgid "thursday"
-msgstr ""
+msgstr "پنج شنبه"
 
 msgid "time"
-msgstr ""
+msgstr "زمان"
 
 msgid ""
 "to your telegram, type `/reg` and enter a code from the bot to field "
 "bellow"
-msgstr ""
+msgstr "برای ثبت نام تلگرام، عبارت `/reg`  را تایپ کنید و کد ربات را"
+"در زیر وارد کنید"
 
 msgid "today"
-msgstr ""
+msgstr "امروز"
 
 msgid "tomorrow"
-msgstr ""
+msgstr "فردا"
 
 msgid "tuesday"
-msgstr ""
+msgstr "سه شنبه"
 
 msgid "unknown"
-msgstr ""
+msgstr "ناشناخته"
 
 msgid "user"
-msgstr ""
+msgstr "کاربر"
 
 msgid "wednesday"
-msgstr ""
+msgstr "چهارشنبه"
 
 msgid "week"
 msgid_plural "weeks"
-msgstr[0] ""
+msgstr[0] "هفته"
+msgstr[1] "هفته ها"
 
 msgid "were"
-msgstr ""
+msgstr "بودید"
 
 msgid "year"
 msgid_plural "years"
-msgstr[0] ""
-
+msgstr[0] "سال"
+msgstr[1] "سال ها"
